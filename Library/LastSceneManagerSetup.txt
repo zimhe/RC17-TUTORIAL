@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AdvancedSkill/04_GridGenerate/Scenes/GridSystem.unity
+  isLoaded: 1
+  isActive: 1
